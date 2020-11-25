@@ -1,0 +1,29 @@
+What is CSP?
+What is Inline Script in CSP?
+Will Httponly Attribuite only will be good for preventing for XSS attack?
+How burp scanner detect csrf vulnerability?what will be the exact thing it will be looking for?
+what is cmd -R used for in SQLmap?
+what are the type of XSS attacks?How will you risk rate them?
+what is blind SQL injection?
+What will be your approch to do a blackbox testing?
+If there is httponly cookie enabled, and attacker can not run javascript. Can attacker run html injection over there? if yes, how?
+expain CSRF in non-technical way?
+what is the use of ldap service?
+default port for LDAP service?
+What is DOM based cross-site scripting?
+Without combination of CORS(i.e we have protection for CORS)? will it be not possible to perform CSRF?
+What will be the best recommandation for CSRF?
+Anti-csrf token, what is the best recommadation to place the csrf token in url, header or body?
+What is http parameter pollution?
+what are the techniques used for bypassing the file upload?
+what do you thing about social engineering?
+Most application uses open source dependencies, so do you know any vulnerability which is vulnerable by open source dependencies?
+whats the diffrence between vulnerability, threat and risk?
+
+
+Senario:
+If there is httponly and secureflag is enabled, what can be the situations of prevention?
+what is true positive and false positive?
+In which condition you will suggest risk downgrading?Will internet and intranet participate a major role in that?
+can Csrf vulnerability can happen in put or delete method?
+
